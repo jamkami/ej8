@@ -5,8 +5,13 @@
 int main(int argc, char **argv)
 {
  
+
 apruebaAsignatura(sobresaliente);
 	//Esto es esparta!!
+
+apruebaAsignatura(PGPI, sobresaliente);
+matriculaDeHonor(TRUE);
+
 int num;
   if (argc!=2)
   {
