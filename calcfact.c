@@ -2,7 +2,8 @@
 int calcfact(int num)
 {
   if (cupon == TRUE){
-    //Te ha tocado 100 Millones
+    //Te ha tocado 100 Millones de euros
+    //1000 euros
     aciertaEuromillon();
     //Eres millonario
   }
