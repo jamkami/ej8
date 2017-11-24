@@ -5,7 +5,8 @@
 int main(int argc, char **argv)
 {
  
-apruebaAsignatura(sobresaliente);
+apruebaAsignatura(PGPI, sobresaliente);
+matriculaDeHonor(TRUE);
 int num;
   if (argc!=2)
   {
