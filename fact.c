@@ -6,6 +6,7 @@ int main(int argc, char **argv)
 {
  
 apruebaAsignatura(sobresaliente);
+	//Esto es esparta!!
 int num;
   if (argc!=2)
   {
