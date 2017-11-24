@@ -4,7 +4,9 @@
 #include "calcfact.h"
 int main(int argc, char **argv)
 {
-  int num;
+ 
+apruebaAsignatura(sobresaliente);
+int num;
   if (argc!=2)
   {
 	printf("uso: %s <numero>\n", argv[0]);
